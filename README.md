@@ -6,41 +6,20 @@ This is a part of [**You Flutter Me**](https://gdsc.community.dev/events/details
 ## Output
 
 This is the final output of all challenges:
-``html
-<div class="row">
-  <div class="column">
-    <img src="assets/images/challenge_one.png" alt="image-description-1">
-  </div>
-  <div class="column">
-    <img src="assets/images/challenge_two.png" alt="image-description-2">
-  </div>
-  <div class="column">
-    <img src="assets/images/challenge_three.png" alt="image-description-3">
-  </div>
-</div>
 
-<style>
-.row {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  margin: 0 -10px;
-}
-
-.column {
-  flex: 1;
-  max-width: 33.33%;
-  padding: 0 10px;
-  box-sizing: border-box;
-}
-
-img {
-  max-width: 100%;
-  height: auto;
-}
-</style>
-``
-
+<table>
+  <tr>
+    <td align="center">
+        <img src="assets/images/challenge_one.png" alt="image-description-1">
+    </td>
+    <td align="center">
+        <img src="assets/images/challenge_two.png" alt="image-description-2">
+    </td>
+    <td align="center">
+        <img src="assets/images/challenge_three.png" alt="image-description-3">
+    </td>
+  </tr>
+</table>
 
 ## Getting Started
 
