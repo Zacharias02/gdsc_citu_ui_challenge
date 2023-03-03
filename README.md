@@ -6,7 +6,7 @@ This is a part of [**You Flutter Me**](https://gdsc.community.dev/events/details
 ## Output
 
 This is the final output of all challenges:
-```html
+``html
 <div class="row">
   <div class="column">
     <img src="assets/images/challenge_one.png" alt="image-description-1">
@@ -39,7 +39,7 @@ img {
   height: auto;
 }
 </style>
-```
+``
 
 
 ## Getting Started
